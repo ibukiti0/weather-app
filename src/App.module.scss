@@ -1,14 +1,14 @@
 .container {
-    width: 1000px;
-    height: 600px;
-    background-size: contain;
-    background: url(https://imageslabo.com/wp-content/uploads/2020/10/2055_cloud_hitsujigumo_6116-1024x683.jpg);
-    
+    width: 1300px;
+    height: 1000px;
+    background: url(https://beiz.jp/images_L/sky/sky_00003.jpg) center center / cover no-repeat fixed;
+
 }
 .box2 {
-    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
     padding: 0.5em 1em;
-    margin: 2em 0;
     font-weight: bold;
     color: #6091d3;/*文字色*/
     background: #FFF;

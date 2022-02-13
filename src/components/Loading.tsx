@@ -1,6 +1,5 @@
+import ReactLoading from 'react-loading';
 const Loading=()=>(
-
-    <h3>通信中.</h3>
-    
+<ReactLoading type="spin" />
 );
 export default Loading;

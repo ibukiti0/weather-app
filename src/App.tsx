@@ -41,7 +41,7 @@ function App() {
         setCity("");
         setLoading(false)
       })
-      .catch(err=>alert("エラー"))
+      .catch(err=>alert("エラーが発生しました。ページをリロードしてください。"))
   }
   return (
     <div className={classes.container}>
